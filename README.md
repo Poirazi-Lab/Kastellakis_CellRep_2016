@@ -1,3 +1,5 @@
+# Network of neuronal models - Integrate-and-Fire pyramidal neurons with simplified morphology
+
 This is the model used in 
 
 Kastellakis G, Silva AJ, Poirazi P., (2016) Linking memories across
